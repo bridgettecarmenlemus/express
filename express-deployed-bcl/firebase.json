@@ -11,5 +11,12 @@
       "source": "**",
       "function": "api"
     }]
+  },
+    "emulators": {
+      "hosting": {
+        "host": "localhost",
+        "port": "5050"
+      }
+    }
   }
-}
+  
